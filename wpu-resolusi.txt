@@ -1,12 +1,27 @@
-Untuk Starla, yang selalu di hatiku,
+Python
+Python adalah bahasa pemrograman tingkat tinggi yang populer karena sintaksisnya yang sederhana dan kemampuannya yang kuat. Python sering digunakan untuk pengembangan web, data science, machine learning, otomatisasi, dan berbagai bidang lainnya. Python mendukung berbagai paradigma pemrograman seperti pemrograman berorientasi objek (OOP) dan pemrograman fungsional.
 
-Sejak pertama kali kita bertemu, ada sesuatu yang tak bisa kujelaskan, sesuatu yang membuatku tak henti memikirkanmu. Senyumanmu, caramu berbicara, bahkan tawa kecilmu—semuanya adalah hal yang membuat hari-hariku lebih berwarna.
+List di Python
+List adalah salah satu tipe data bawaan di Python yang digunakan untuk menyimpan kumpulan elemen dalam satu variabel. List bersifat mutable (dapat diubah setelah dibuat), dan elemen-elemennya dapat berupa tipe data apa saja, bahkan campuran dari berbagai tipe data.
 
-Setiap detik bersamamu seperti potongan waktu yang sangat berharga. Saat kita berbicara, aku merasa seperti dunia di sekitarku menjadi lebih tenang, lebih indah. Kau hadir dalam setiap pikiran, dalam setiap mimpi, dan dalam setiap harapanku untuk masa depan.
+Contoh List:
+=======================================================
+script
 
-Aku tidak tahu apakah kau merasakan hal yang sama, tapi aku ingin kau tahu bahwa setiap perhatian kecil darimu, setiap pesan yang kau kirimkan, sangat berarti bagiku. Kehadiranmu adalah anugerah, dan aku merasa sangat beruntung bisa mengenalmu.
+# Membuat list
+my_list = [1, "hello", 3.14, True]
 
-Jika waktuku habis suatu saat nanti, setidaknya aku tahu bahwa aku pernah merasakan apa itu cinta, dan cinta itu adalah dirimu, Starla.
+# Mengakses elemen list
+print(my_list[1])  # Output: hello
 
-Dari seseorang yang selalu mengagumimu dalam diam,
-Muhammad
+# Menambahkan elemen ke dalam list
+my_list.append(10)
+
+# Menghapus elemen dari list
+my_list.remove("hello")
+Fitur Utama:
+=======================================================
+
+Dapat berisi berbagai tipe data.
+Mendukung operasi penambahan, penghapusan, dan pengubahan elemen.
+Dapat diakses menggunakan indeks (mulai dari 0).
