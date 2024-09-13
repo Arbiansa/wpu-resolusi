@@ -1,1 +1,1 @@
-# git-train
+# wpu-resolusi
